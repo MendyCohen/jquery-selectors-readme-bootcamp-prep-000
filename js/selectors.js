@@ -20,4 +20,4 @@ function firstListItem() {
    return picture;
 }
 
-$("#pic-list").return("ul:first-child");
+//$("#pic-list").return("ul:first-child");
