@@ -15,13 +15,9 @@ function divSelector() {
   return $('.pics');
 }
 
-function firstListItem() {
- var picture  = $("#pic-list ul:first-child");
-   return picture;
-}
 
 function firstListItem() {
- return $("#pic-list ul:first-child");
+ return $("#pic-list ul:first");
   
 }
 
