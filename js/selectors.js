@@ -21,8 +21,8 @@ function firstListItem() {
 }
 
 function firstListItem() {
- var picture  = $("#pic-list ul:first-child");
-   return picture;
+ return $("#pic-list ul:first-child");
+  
 }
 
 //$("#pic-list").return("ul:first-child");
