@@ -21,4 +21,3 @@ function firstListItem() {
   
 }
 
-//$("#pic-list").return("ul:first-child");
